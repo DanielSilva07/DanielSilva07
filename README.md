@@ -1,4 +1,4 @@
-<h1 align="left">Software engineer</h1>
+<h1 align="left">Software developer</h1>
 
 
 ###
