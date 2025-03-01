@@ -1,5 +1,7 @@
 <h1 align="left">Software developer</h1>
 
+ Olá! Eu sou o Daniel Silva 
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
