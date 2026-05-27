@@ -1,11 +1,12 @@
 <h1 align="left">Software developer</h1>
 
- Olá! Eu sou o Daniel Silva 
+ Olá! Eu sou o Daniel Silva, Estudando Engenharia de Software.
 
  - 🌱 Software Developer Intern
  - Java
  - APIs
  - Banco de Dados
+ - Docker
  - Sistemas Distribuídos
  - Kafka
  - RAbbitMQ
