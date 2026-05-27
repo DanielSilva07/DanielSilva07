@@ -2,7 +2,19 @@
 
  Olá! Eu sou o Daniel Silva 
 
- - 🌱 software developer intern
+ - 🌱 Software Developer Intern
+ - Java
+ - APIs
+ - Banco de Dados
+ - Sistemas Distribuídos
+ - Kafka
+ - RAbbitMQ
+ - AWS
+   
+
+<div align="center">
+ <img src="https://streak-stats.demolab.com?user=DanielSilva07&theme=tokyonight&hide_border=false" height="150"/>
+ </div>
 
 
 <div align="center">
@@ -20,8 +32,10 @@
  <img width="12" />
 </div>
 
+   
+                                        
 
-###
+---
 
 
 <div align="center">
@@ -30,5 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielSilva07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DanielSilva07&color=7c3aed&style=flat-square&label=visitas" alt="profile views"/>
+</p>
 
